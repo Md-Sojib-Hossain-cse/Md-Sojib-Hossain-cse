@@ -3,7 +3,7 @@
   Aspiring full-stack web developer (MERN) | Passionate about clean code, performance & UI.
 </p>
 
-<img src="your-banner-image-link" alt="banner"/>
+<img src="https://i.ibb.co.com/G4yhGBpb/git-Banner.jpg" alt="mdsojibhossain"/>
 
 ---
 
