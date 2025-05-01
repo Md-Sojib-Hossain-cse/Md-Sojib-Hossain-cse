@@ -3,7 +3,7 @@
   Aspiring full-stack web developer (MERN) | Passionate about clean code, performance & UI.
 </p>
 
-<img aligh="center" src="https://i.ibb.co.com/pBSNtdnb/bannerbg.jpg" alt="mdsojibhossain"/>
+<img style="width: 100%;" src="https://i.ibb.co.com/pBSNtdnb/bannerbg.jpg" alt="mdsojibhossain"/>
 
 ---
 
