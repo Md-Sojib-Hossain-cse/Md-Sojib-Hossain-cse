@@ -69,8 +69,9 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/Md-Sojib-Hossain-cse/contribution-snake/blob/output/grid.svg)
+## 📈 Contribution Graph
+
+[![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
 
 
 ### GitHub Statistics:
@@ -85,12 +86,12 @@
 
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
 <!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=touhidcodes&label=Profile%20views&color=0e75b6&style=flat" alt="touhidcodes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="MD SOJIB HOSSAIN"/> </p>
 
 
 
@@ -110,9 +111,6 @@
   <img src="https://streak-stats.demolab.com?user=Md-Sojib-Hossain-cse&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📈 Contribution Graph
-
-[![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
 
 ## 🏆 GitHub Trophy
 
@@ -121,14 +119,11 @@
 </p>
 
 
-## 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
 
 
