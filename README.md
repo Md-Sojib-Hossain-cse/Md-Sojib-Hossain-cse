@@ -11,7 +11,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm MD SOJIB HOSSAIN</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Team+Lead+MERN+Stack+Developer@WebQ+Ltd;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Big+Data" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Team+Lead+MERN+Stack+Developer+@+WebQ+Ltd;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Big+Data" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -95,17 +95,18 @@
 | <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
 | ------------- | ------------- |
 
-<!--- random quote --->
-##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ---
 ### 📌 My Projects
 - Meal Shop 🍽️ – A food ordering & management app [Live](https://book-shop-client-ashy.vercel.app/) | [Code (Client)](https://github.com/Asif419/book-store-client) | [Code (Server)](https://github.com/mdsajedulra/Book-Shop-Backend)
 - HireEcho 💼 – A job board platform [Live](https://hire-echo.web.app) | [Code (Client)](https://github.com/Md-Sojib-Hossain-cse/hire-echo-client) | [Code (Server)](https://github.com/Md-Sojib-Hossain-cse/hire-echo-server)
 - Feliz Tails 🐶 – Pet adoption website [Live](https://feliz-tails.web.app/) | [Code (Client)](https://github.com/Md-Sojib-Hossain-cse/feliz-tails-client) | [Code (Server)](https://github.com/Md-Sojib-Hossain-cse/feliz-tails-server)
+
+---
+
+<!--- random quote --->
+##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
