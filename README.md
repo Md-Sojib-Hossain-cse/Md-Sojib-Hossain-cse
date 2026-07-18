@@ -1,3 +1,6 @@
+<!--- visit count --->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="MD SOJIB HOSSAIN"/> </p>
+
 <!--- banner --->
 <img src="./banner/banner.png" alt="Hello world">
 
@@ -74,13 +77,6 @@
 [![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
 
 
-
-
-### Repository Stats & Streak:
-<a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Md-Sojib-Hossain-cse&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a>
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
-| ------------- | ------------- |
-
 ## 🔥 Repository Stats & Streak
 
 <table>
@@ -96,30 +92,12 @@
 
 <br/>
 
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| ------------- | ------------- |
+
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<!--- visit count --->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="MD SOJIB HOSSAIN"/> </p>
-
-
-Feel free to contact me :yum:
-<br><br>
-<a href="https://www.linkedin.com/in/md-sojib-hossain-059a6b230" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-md--sojib--hossain--059a6b230-blue?logo=linkedin">
-</a>
-
-<a href="mailto:sojibhossain.cse@gmail.com">
-  <img src="https://img.shields.io/badge/Email-sojibhossain.cse%40gmail.com-orange?logo=gmail">
-</a>
-
-<a href="https://mdsojibhossain-portfolio.web.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-mdsojibhossain--portfolio.web.app-red?logo=google-chrome">
-</a>
-
 
 
 
