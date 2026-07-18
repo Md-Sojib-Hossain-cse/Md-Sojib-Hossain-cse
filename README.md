@@ -111,5 +111,5 @@
 ---
 
 📫 **Contact me at:**
-sojibhossain.cse@gmail.com | [LinkedIn](https://www.linkedin.com/in/md-sojib-hossain-059a6b230) | [Portfolio](https://project-tau-three-92.vercel.app)
+sojibhossain.cse@gmail.com | [LinkedIn](https://www.linkedin.com/in/mdsojibhossaincse) | [Portfolio](https://project-tau-three-92.vercel.app)
 
