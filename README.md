@@ -74,12 +74,8 @@
 [![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
 
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
-
 ### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| <a><img align="center" src="https://streak-stats.demolab.com/?user=Md-Sojib-Hossain-cse" /></a> |
 | ------------- | ------------- |
 
 <br/>
@@ -92,39 +88,6 @@
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="MD SOJIB HOSSAIN"/> </p>
-
-
-
-<img style="width: 100%;" src="https://i.ibb.co.com/YTPQmx7j/github-Banner.png" alt="mdsojibhossain"/>
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Sojib-Hossain-cse&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sojib-Hossain-cse&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-## 🔥 Repository Stats & Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Md-Sojib-Hossain-cse&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-## 🏆 GitHub Trophy
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Sojib-Hossain-cse&theme=tokyonight&no-frame=true&column=6"/>
-</p>
-
-
-
-## 👀 Profile Views
-
-<p align="center">
-
-</p>
 
 
 ### **I'm MD Sojib Hossain** ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) 😎
