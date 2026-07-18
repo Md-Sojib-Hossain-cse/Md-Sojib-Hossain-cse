@@ -74,9 +74,24 @@
 [![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
 
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://streak-stats.demolab.com/?user=Md-Sojib-Hossain-cse" /></a> |
-| ------------- | ------------- |
+
+## 🔥 Repository Stats & Streak
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Md-Sojib-Hossain-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</td>
+
+<td width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Sojib-Hossain-cse&theme=tokyonight" alt="Profile Summary"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
