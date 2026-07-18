@@ -11,7 +11,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm MD SOJIB HOSSAIN</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Team+Lead+MERN+Stack+Developer+@+WebQ+Ltd;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Big+Data" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Lead+MERN+Stack+Developer+@+WebQ+Ltd;Passionate+Full+Stack+Web+Developer;JavaScript+Enthusiast;Interested+in+Big+Data" alt="Typing SVG" /></a>
   </ul>
 </div>
 
