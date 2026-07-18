@@ -96,6 +96,41 @@
 
 <img style="width: 100%;" src="https://i.ibb.co.com/YTPQmx7j/github-Banner.png" alt="mdsojibhossain"/>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Md-Sojib-Hossain-cse&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sojib-Hossain-cse&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔥 Repository Stats & Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Md-Sojib-Hossain-cse&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+[![Sojib's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Md-Sojib-Hossain-cse&theme=tokyo-night&hide_border=true)](https://github.com/Md-Sojib-Hossain-cse)
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Md-Sojib-Hossain-cse&theme=tokyonight&no-frame=true&column=6"/>
+</p>
+
+
+## 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
 
 ### **I'm MD Sojib Hossain** ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) 😎
 
@@ -126,7 +161,7 @@ Aspiring full-stack web developer (MERN) | Passionate about clean code, performa
 <img src="https://bad-apple-github-readme.vercel.app/api?username=Md-Sojib-Hossain-cse">
 <img src="https://github-profile-trophy.vercel.app/?username=Md-Sojib-Hossain-cse">
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Md-Sojib-Hossain-cse)
+
 
 Feel free to contact me :yum:
 <br><br>
