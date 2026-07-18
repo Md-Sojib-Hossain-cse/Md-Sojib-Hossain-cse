@@ -75,15 +75,16 @@
 
 
 
+
+### Repository Stats & Streak:
+<a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=Md-Sojib-Hossain-cse&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a>
+| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
+| ------------- | ------------- |
+
 ## 🔥 Repository Stats & Streak
 
 <table>
 <tr>
-<td width="50%">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=Md-Sojib-Hossain-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</td>
 
 <td width="50%">
 
@@ -103,37 +104,6 @@
 
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Md-Sojib-Hossain-cse&label=Profile%20Views&color=0e75b6&style=flat" alt="MD SOJIB HOSSAIN"/> </p>
-
-
-### **I'm MD Sojib Hossain** ([22](https://github.com/moepoi/moepoi/commit/c15e0dc41a58149d47f7813f145259151a2a73c7) y.o) 😎
-
-Aspiring full-stack web developer (MERN) | Passionate about clean code, performance & UI. :rocket:
-
-💼 I am a MERN Stack developer. I build web applications using React, Node.js, Express.js, and MongoDB, focusing on both frontend and backend development. I'm also passionate about creating responsive layouts, clean UI designs, and performance-focused coding.
-
-:page_with_curl: I'm currently working with:
-<br><br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-<summary>:trophy: Github Stats</summary>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sojib-Hossain-cse)](https://github.com/Md-Sojib-Hossain-cse)
-
-<img src="https://bad-apple-github-readme.vercel.app/api?username=Md-Sojib-Hossain-cse">
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Sojib-Hossain-cse">
-
 
 
 Feel free to contact me :yum:
